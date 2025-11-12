@@ -28,4 +28,5 @@
 Code & Deployment VS Code – https://code.visualstudio.com/   
 GitHub Pages – frontend hosting: https://pages.github.com/ OR USING VERCEL/VSCODEEDU - up to designated team and comfort  
 Templates & Tutorials HTML/CSS/JS   
-Chat App Example: W3Schools   
+W3Schools for refreshers! https://www.w3schools.com/  
+or MDN https://developer.mozilla.org/en-US/
