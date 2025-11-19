@@ -8,17 +8,16 @@
 🗓️ Build a simple web app where students can chat with an AI study buddy that helps explain topics, quiz them, and provides study motivation!
 
 **Team Name:**    
-🧠 _[Team name here]_  // EDIT THIS
+🧠  Cheeky AI
 
 ---
 
 ## 👥 TEAM MEMBERS  
 | Role | Name(s) | Responsibilities |    
-|------|------|------------------| // EDIT THESE SECTIONS  
-| 💻 Coder(s) | _[Names]_ | Build web app structure, connect OpenAI API |  
-| 🎨 UI/UX Designer | _[Names]_ | Create wireframes, color scheme, and chat layout |  
-| ✍️ Content Designer | _[Names]_ | Write sample dialogues and test messages |  
-| 🧑‍💼 Prompt Engineer | _[Names]_ | Design prompts for tone + accuracy |  
+|Emma|Saim|Daniel|Lexie|David|Cole|Shannon|   
+| 💻 Coder(s) | Saim & Emma & Shannon| Build web app structure, connect OpenAI API |  
+| 🎨 UI/UX Designer | Lexie & David | Create wireframes, color scheme, and chat layout |  
+| 🧑‍💼 Prompt Engineer | Daniel & Cole | Design prompts for tone + accuracy, Write sample dialogues and test messages |  
 
 
 ---
